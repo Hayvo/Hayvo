@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Hayvo, this GitHub contains mainly school projects but also a few personnal projects
+- 👋 Hi, I’m @Hayvo, this GitHub contains mainly personal projects but also a few professional projects
 - 👀 I’m interested in computer science, data science, animation & photography
-- 🌱 I’m currently learning computer engineering & data science
 - 📫 How to reach me https://www.linkedin.com/in/pierre-denig-6333001b6/
 
 <!---
